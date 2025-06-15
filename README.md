@@ -1,4 +1,4 @@
-# 🖼️ C++/CLI Image Viewer
+# Image Viewer
 
 A simple Windows Forms GUI application built using **C++/CLI** in **Visual Studio**, which lets users view images and navigate using **Previous** and **Next** buttons.
 
