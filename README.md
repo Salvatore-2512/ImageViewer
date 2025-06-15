@@ -27,18 +27,19 @@ A simple Windows Forms GUI application built using **C++/CLI** in **Visual Studi
 
 bash
 git clone https://github.com/your-username/image-viewer-cli.git
+<br>
 cd image-viewer-cli
 
 ### 2.	Open in Visual Studio:
 
 - Open the .sln file
-- 
+
 ### 3.	Ensure the following:
 
 - Project type: CLR Empty Project (.NET Framework)
 - Project settings → Enable: /clr
 - Add MainForm.h and main.cpp as shown in the code
-- 
+  
 ### 4.	Build and Run:
 
 - Build the project (Ctrl + Shift + B)
@@ -47,7 +48,6 @@ cd image-viewer-cli
 ### 5.	Add your images:
 
 - Place your images in a folder named images inside the output directory
-
 
 ---
 
